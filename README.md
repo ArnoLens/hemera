@@ -1,2 +1,2 @@
-# hemera
-Contains functions used in Hemera WM.
+# theiana
+Contains functions used in Theiana WM.
